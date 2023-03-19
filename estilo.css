@@ -1,0 +1,19 @@
+body {
+background-color: #4C49E0;
+}
+.cabeçalho {
+    background-color: #5e76cf;
+    border-radius: 12% 0%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo {
+    width: 10%;
+    
+}
+
+.cabecalho-lista-item {
+display: inline-block;
+margin: 0 16px;
+}
